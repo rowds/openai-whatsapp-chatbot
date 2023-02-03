@@ -18,4 +18,4 @@ ipython
 ipykernel
 pandas
 apscheduler
--e openai-chatbot/
+-e C:/Users/roudr/PycharmProjects/openai-whatsapp-chatbot/openai-chatbot/
